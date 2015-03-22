@@ -1,6 +1,6 @@
 {
-    "name": "upside down cursor",
-    "description": "Change the cursor upside down",
+    "name": "hen dogg cursor",
+    "description": "Change the cursor to hen dogg",
     "icons": { "16": "icons/icon16.png",
              "48": "icons/icon48.png",
             "128": "icons/icon128.png" },
