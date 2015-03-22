@@ -1,4 +1,4 @@
-##Carousel Lesson Starter Kit
+##Hen Dogg Cursor 
 
 Chrome extension to change your cursor to Hen Dogg:
 
