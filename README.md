@@ -6,7 +6,7 @@ Chrome extension to change your cursor to Hen Dogg:
 
 Instructions:
 
-clone the repo: git clone https://github.com/Morgantheplant/upsidedowncursor
+clone the repo
 
 Open up the extensions tab in Chrome.
 
